@@ -1,31 +1,31 @@
 <div align="center">
 
 # Hi there, I'm Juan David Colorado 👋
-### Product Architect · Design Systems & Mobile/Web Engineer
+### Lead Product Designer · Design Technologist & Systems Architect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JuanColoradoV/portfolio)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-juancoloradov.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juancoloradov.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05638?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://juancoloradov.github.io/portfolio/assets/Juan_David_Colorado_CV.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-500%2B%20Commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanColoradoV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 <p align="center">
-  <b>Bridging human-centered design, token-driven design systems, and robust cross-platform engineering.</b><br>
-  Specializing in scalable design architectures, Flutter mobile systems, and high-assurance digital products.
+  <b>I design enterprise, AI, and complex operational products—and I write the code that ships them.</b><br>
+  <i>"I'd rather ship a smaller design I can defend with empirical test results than a bigger one I can only defend with taste."</i>
 </p>
 
 ---
 
 </div>
 
-### 🛠️ What I Focus On
+### 🔬 Core Philosophy: Evidence Over Vanity
 
-- 📐 **Design Systems & Forensic Architecture**: Architecting token-driven design systems with automated CI/CD style gates, WCAG 2.2 AA accessibility verification, and layout consistency across multi-platform experiences.
-- 📱 **Cross-Platform & Mobile Engineering**: Building high-performance, responsive applications across Flutter, Dart, React, and TypeScript with clean architectural boundaries.
-- ⚙️ **Data Integrity & Scalability**: Designing resilient data models, robust API contracts, and security-conscious architectures (PostgreSQL RLS, automated sanitization).
-- 🎯 **Product Strategy & Ergonomics**: Translating complex operational workflows into intuitive, zero-friction user journeys with high signal-to-noise ratios.
+- 🧪 **Evidence is the Aesthetic**: Zero fabricated metrics, zero superficial Dribbble shots. Every design decision is rooted in empirical research, user journey constraints, and observable usability data (Maze, unmoderated prototype testing).
+- 📐 **Production Design Systems**: Architecting tokenized design systems (semantic color tokens, multi-axis typography scales, elevation) with automated CI/CD style gates and strict WCAG 2.2 AA accessibility floors that degrade gracefully.
+- 💻 **Engineering That Ships**: Hand-authoring production front-ends alongside engineering teams—from zero-dependency, ultra-fast semantic web architectures to responsive cross-platform Flutter applications and robust TypeScript API contracts.
+- 🎯 **High-Assurance Systems**: Designing for complex domains (enterprise B2B, AI workflows, operational platforms) where cognitive load reduction, data integrity, and error prevention are paramount.
 
 ---
 
-### 🧰 Core Disciplines & Stack
+### 🧰 Disciplines & Technical Stack
 
 <table align="center" width="100%">
   <tr>
@@ -33,31 +33,39 @@
       <h4>🎨 Product & Design Systems</h4>
       <ul>
         <li><b>Systems:</b> Design Tokens, Type Scales, Style Gates</li>
-        <li><b>UX/UI:</b> User Workflows, Interaction Design</li>
-        <li><b>Accessibility:</b> WCAG 2.2 AA, Responsive Typography</li>
-        <li><b>Tooling:</b> Figma, Design Indexing, Handoff Specs</li>
+        <li><b>Research:</b> Maze Usability Testing, Task Flows</li>
+        <li><b>Accessibility:</b> WCAG 2.2 AA, Contrast Floor, 200% Zoom</li>
+        <li><b>Tooling:</b> Figma, Design Systems Ops, Handoff Specs</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>📱 Frontend & Mobile</h4>
+      <h4>📱 Front-End & Mobile</h4>
       <ul>
-        <li><b>Mobile:</b> Flutter, Dart (iOS & Android)</li>
-        <li><b>Web:</b> Next.js, React, TypeScript, Tailwind CSS</li>
-        <li><b>Rendering:</b> Custom RenderObjects, Spatial UI</li>
-        <li><b>Performance:</b> Layout Optimizations, Error Boundaries</li>
+        <li><b>Mobile:</b> Flutter, Dart (iOS & Android Architecture)</li>
+        <li><b>Web:</b> Vanilla HTML5/CSS3/JS, Next.js, TypeScript</li>
+        <li><b>Performance:</b> Near-zero CLS, Custom RenderObjects</li>
+        <li><b>Responsive:</b> Fluid Viewports, Reduced-Motion Honor</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend & Architecture</h4>
+      <h4>⚙️ Architecture & Data</h4>
       <ul>
         <li><b>Data & Security:</b> PostgreSQL, Row-Level Security (RLS)</li>
-        <li><b>APIs:</b> REST, Node.js, Express, TypeScript</li>
-        <li><b>Cloud & Edge:</b> Edge Computing, Serverless primitives</li>
-        <li><b>Testing:</b> Automated CI/CD Regression & Quality Gates</li>
+        <li><b>APIs:</b> REST Contracts, Node.js, Express, TypeScript</li>
+        <li><b>Cloud & Edge:</b> Edge Computing, Serverless Workflows</li>
+        <li><b>Quality:</b> Automated Regression & Design Gate Suites</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 💼 Selected Experience & System Proofs
+
+- **Enterprise & AI Product Engagements**: Architected UX architectures and complex workflow interfaces across enterprise platforms, EV charging infrastructure (EPM), AI interaction models, and multi-tenant B2B applications.
+- **Craft & Performance**: Live proof hand-coded in vanilla web without runtime dependencies, achieving 100/100 performance scores, instant dark-mode persistence, and semantic precision.
+- **Verifiable Decision Trails**: Documenting not only the successful path, but the caveats and trade-offs that make systems resilient under real-world usage.
 
 ---
 
@@ -72,5 +80,5 @@
 <br>
 
 <div align="center">
-  <sub><i>"Great software design is clarity made functional—reducing cognitive load and delivering uncompromised reliability."</i></sub>
+  <sub>Based in Medellín, Colombia · Collaborating globally · <a href="https://juancoloradov.github.io/portfolio/">Explore Live Portfolio & Case Studies →</a></sub>
 </div>
