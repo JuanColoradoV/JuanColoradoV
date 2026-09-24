@@ -1,15 +1,15 @@
 <div align="center">
 
 # Hi there, I'm Juan David Colorado 👋
-### Co-Founder · Lead Product Architect · Clinical UX & Mobile Engineer
+### Principal Product Architect · Clinical UX & Mobile Systems Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JuanColoradoV/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-500%2B%20Commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanColoradoV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 <p align="center">
-  <b>Bridging complex clinical biomechanics, medical safety, and zero-friction software.</b><br>
-  Specializing in token-driven design systems, Flutter mobile engineering, and HIPAA-grade architectures.
+  <b>Bridging clinical ergonomics, token-driven design systems, and modern mobile engineering.</b><br>
+  Specializing in HealthTech SaaS, Flutter mobile architecture, and high-integrity applications.
 </p>
 
 ---
@@ -18,10 +18,10 @@
 
 ### 🩺 What I Do & Build
 
-- 🚀 **Co-Founder & Lead Product Architect at HaloPT**: Building the next-generation clinical physical therapy & rehabilitation platform. Transforming complex orthopedic protocols and goniometer ROM tracking into frictionless clinician & patient mobile experiences.
+- 🚀 **HealthTech & Clinical SaaS**: Architecting next-generation clinical workflows, physical therapy protocols, biomechanics/ROM measurement, and frictionless clinician & patient mobile experiences.
 - 📐 **Design Systems & Forensic Architecture**: Architecting token-driven design systems with automated CI/CD style, contrast (WCAG 2.2 AA), and layout gates directly on the rendered Flutter tree.
 - 💻 **Full-Stack & Mobile Engineering**: Shipping production apps across Flutter, Dart, TypeScript, and PostgreSQL with Row-Level Security (RLS).
-- 🛡️ **Clinical Safety & HIPAA Integrity**: Relentless advocate for data scrub hygiene (zero PHI leaks), audit immutability, and patient-first UX that prevents clinical abandonment.
+- 🛡️ **Data Integrity & Compliance**: Relentless advocate for data scrub hygiene (zero PHI leaks), audit immutability, and patient-first UX that prevents clinical abandonment.
 
 ---
 
