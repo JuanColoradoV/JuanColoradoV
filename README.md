@@ -1,41 +1,41 @@
 <div align="center">
 
 # Hi there, I'm Juan David Colorado 👋
-### Principal Product Architect · Clinical UX & Mobile Systems Engineer
+### Product Architect · Design Systems & Mobile/Web Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JuanColoradoV/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-500%2B%20Commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanColoradoV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 <p align="center">
-  <b>Bridging clinical ergonomics, token-driven design systems, and modern mobile engineering.</b><br>
-  Specializing in HealthTech SaaS, Flutter mobile architecture, and high-integrity applications.
+  <b>Bridging human-centered design, token-driven design systems, and robust cross-platform engineering.</b><br>
+  Specializing in scalable design architectures, Flutter mobile systems, and high-assurance digital products.
 </p>
 
 ---
 
 </div>
 
-### 🩺 What I Do & Build
+### 🛠️ What I Focus On
 
-- 🚀 **HealthTech & Clinical SaaS**: Architecting next-generation clinical workflows, physical therapy protocols, biomechanics/ROM measurement, and frictionless clinician & patient mobile experiences.
-- 📐 **Design Systems & Forensic Architecture**: Architecting token-driven design systems with automated CI/CD style, contrast (WCAG 2.2 AA), and layout gates directly on the rendered Flutter tree.
-- 💻 **Full-Stack & Mobile Engineering**: Shipping production apps across Flutter, Dart, TypeScript, and PostgreSQL with Row-Level Security (RLS).
-- 🛡️ **Data Integrity & Compliance**: Relentless advocate for data scrub hygiene (zero PHI leaks), audit immutability, and patient-first UX that prevents clinical abandonment.
+- 📐 **Design Systems & Forensic Architecture**: Architecting token-driven design systems with automated CI/CD style gates, WCAG 2.2 AA accessibility verification, and layout consistency across multi-platform experiences.
+- 📱 **Cross-Platform & Mobile Engineering**: Building high-performance, responsive applications across Flutter, Dart, React, and TypeScript with clean architectural boundaries.
+- ⚙️ **Data Integrity & Scalability**: Designing resilient data models, robust API contracts, and security-conscious architectures (PostgreSQL RLS, automated sanitization).
+- 🎯 **Product Strategy & Ergonomics**: Translating complex operational workflows into intuitive, zero-friction user journeys with high signal-to-noise ratios.
 
 ---
 
-### 🛠️ Core Stack & Disciplines
+### 🧰 Core Disciplines & Stack
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🎨 Product & Design Architecture</h4>
+      <h4>🎨 Product & Design Systems</h4>
       <ul>
-        <li><b>Design Systems:</b> Tokens, Type Scales, Style Gates</li>
-        <li><b>Clinical UX:</b> Ergonomics, Cognitive Load Reduction</li>
-        <li><b>Accessibility:</b> WCAG 2.2 AA Compliance, 200% Scaling</li>
-        <li><b>Tooling:</b> Figma, User Journey Mapping, Flow Specs</li>
+        <li><b>Systems:</b> Design Tokens, Type Scales, Style Gates</li>
+        <li><b>UX/UI:</b> User Workflows, Interaction Design</li>
+        <li><b>Accessibility:</b> WCAG 2.2 AA, Responsive Typography</li>
+        <li><b>Tooling:</b> Figma, Design Indexing, Handoff Specs</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -44,16 +44,16 @@
         <li><b>Mobile:</b> Flutter, Dart (iOS & Android)</li>
         <li><b>Web:</b> Next.js, React, TypeScript, Tailwind CSS</li>
         <li><b>Rendering:</b> Custom RenderObjects, Spatial UI</li>
-        <li><b>Observability:</b> Sentry (with automated PHI scrubbing)</li>
+        <li><b>Performance:</b> Layout Optimizations, Error Boundaries</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend & Infrastructure</h4>
+      <h4>⚙️ Backend & Architecture</h4>
       <ul>
         <li><b>Data & Security:</b> PostgreSQL, Row-Level Security (RLS)</li>
-        <li><b>Runtime:</b> Node.js, Express, TypeScript APIs</li>
-        <li><b>Cloud & Edge:</b> Cloudflare Workers, Neon Lakebase</li>
-        <li><b>Testing:</b> Automated CI/CD Regression & Gate Suites</li>
+        <li><b>APIs:</b> REST, Node.js, Express, TypeScript</li>
+        <li><b>Cloud & Edge:</b> Edge Computing, Serverless primitives</li>
+        <li><b>Testing:</b> Automated CI/CD Regression & Quality Gates</li>
       </ul>
     </td>
   </tr>
@@ -72,5 +72,5 @@
 <br>
 
 <div align="center">
-  <sub><i>"Good design in healthcare isn't just aesthetics—it's patient safety, clinical compliance, and human empathy made visible."</i></sub>
+  <sub><i>"Great software design is clarity made functional—reducing cognitive load and delivering uncompromised reliability."</i></sub>
 </div>
