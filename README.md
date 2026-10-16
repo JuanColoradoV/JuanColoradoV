@@ -1,4 +1,4 @@
-<a href="https://juancoloradov.github.io/portfolio/"><img src="assets/banner.png" alt="Juan David Colorado, product design lead for AI and enterprise software. A design receipt: 9 of 10 preferred the conversational flow, comprehension went from 2 to 8 of 10, handoff from 9 to 6 days; caveat: the tenth user never found prompting." /></a>
+<a href="https://juancoloradov.github.io/portfolio/"><img src="assets/banner.svg" alt="Juan David Colorado, product design lead for AI and enterprise software. A design receipt: 9 of 10 preferred the conversational flow, comprehension went from 2 to 8 of 10, handoff from 9 to 6 days; caveat: the tenth user never found prompting." /></a>
 
 ### Designing clarity into systems that cannot stay simple.
 
