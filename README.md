@@ -12,7 +12,7 @@ that is what keeps it intact.
 
 ## Now building
 
-<a href="https://github.com/JuanColoradoV/pd-design-team"><img src="https://raw.githubusercontent.com/JuanColoradoV/pd-design-team/main/.github/assets/hero.png" alt="pd-design-team: design with receipts. A design team for your AI agent." /></a>
+<a href="https://github.com/JuanColoradoV/pd-design-team"><img src="https://raw.githubusercontent.com/JuanColoradoV/pd-design-team/main/.github/assets/demo.gif" alt="A real Claude Code session: pd-design-lead plans the smallest team, lists the checks it can't run, asks four questions, and waits for an OK before writing any file" /></a>
 
 **[pd-design-team](https://github.com/JuanColoradoV/pd-design-team)** is a product-design team for AI agents:
 16 open-source skills, from research to developer handoff, that bind to your real design system, design
